@@ -1,1 +1,12 @@
+Objetivo: DDL - Creación de tablas, Constraint
+
+
+Realice las siguientes tareas:
+
+
+1.- Dado el modelo publicado en el sitio, el cual corresponde a un modelo de los mismos datos usado en taller 1:
+
+•	Se solicita entregar un solo archivo en formato .sql (archivo de texto) con el script, el cual al correrlo en postgres genere las tablas correspondientes.
+
+•	Tener especial consideración de manejar correctamente la integridad de dominio, relacional y entidad de cada tabla.
 
